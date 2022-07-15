@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# Creating-on-chain-nft
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+This is a on-chain NFT project with Solidity and Javascript. It is created based on Alchemy's Road to Web3 programme. You can find the documentation in [here](https://docs.alchemy.com/alchemy/road-to-web3/weekly-learning-challenges/3.-how-to-make-nfts-with-on-chain-metadata-hardhat-and-javascript).
